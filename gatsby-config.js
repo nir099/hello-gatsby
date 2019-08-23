@@ -18,8 +18,8 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `subModule`,
-        path: `${__dirname}/subModule`,
+        name: `submodule`,
+        path: `${__dirname}/submodule`,
       },
     },
     {
