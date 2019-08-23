@@ -1,4 +1,4 @@
 
-[submodule "submodule"]
+[submodule "subModule"]
 	path = submodule
 	url = https://github.com/nir099/subModule.git
